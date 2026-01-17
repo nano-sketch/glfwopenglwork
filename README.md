@@ -1,0 +1,2 @@
+# glfwopenglwork
+notes about glfw
